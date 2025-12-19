@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "i'm closing my eyes",
+  "base_artist": "potsu",
+  "createdAt": "2025-12-19T17:09:02.879287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "i'm closing my eyes",
+      "artist": "potsu",
+      "has_synced": true,
+      "path": "select/01_i'm_closing_my_eyes_potsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Closing My Eyes",
+      "artist": "Scruffpuppie",
+      "has_synced": false,
+      "path": "select/02_I'm_Closing_My_Eyes_Scruffpuppie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "i'm closing my eyes",
+      "artist": "potsu",
+      "has_synced": true,
+      "path": "select/03_i'm_closing_my_eyes_potsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Closing My Eyes",
+      "artist": "potsu",
+      "has_synced": true,
+      "path": "select/04_I'm_Closing_My_Eyes_potsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "im closing my eyes",
+      "artist": "potsu feat. shiloh",
+      "has_synced": false,
+      "path": "select/05_im_closing_my_eyes_potsu_feat._shiloh.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "im closing my eyes (Feat. shiloh)",
+      "artist": "potsu",
+      "has_synced": true,
+      "path": "select/06_im_closing_my_eyes_(Feat._shiloh)_potsu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "i'm closing my eyes",
+      "artist": "potsu feat. shiloh",
+      "has_synced": true,
+      "path": "select/07_i'm_closing_my_eyes_potsu_feat._shiloh.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "35 i'm closing my eyes (feat. shiloh)",
+      "artist": "potsu",
+      "has_synced": true,
+      "path": "select/08_35_i'm_closing_my_eyes_(feat._shiloh)_potsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "im closing my eyes (Feat. shiloh)",
+      "artist": "potsu/Shiloh",
+      "has_synced": false,
+      "path": "select/09_im_closing_my_eyes_(Feat._shiloh)_potsu_Shiloh.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "im closing my eyes",
+      "artist": "potsu feat. Shiloh Dynasty",
+      "has_synced": true,
+      "path": "select/10_im_closing_my_eyes_potsu_feat._Shiloh_Dynasty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "im closing my eyes (Feat. shiloh)",
+      "artist": "potsu feat. Shiloh",
+      "has_synced": true,
+      "path": "select/11_im_closing_my_eyes_(Feat._shiloh)_potsu_feat._Shiloh.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "im closing my eyes (feat. shiloh)",
+      "artist": "potsu",
+      "has_synced": false,
+      "path": "select/12_im_closing_my_eyes_(feat._shiloh)_potsu.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i’m closing my eyes",
+      "artist": "potsu feat. Shiloh Dynasty",
+      "has_synced": true,
+      "path": "select/13_i’m_closing_my_eyes_potsu_feat._Shiloh_Dynasty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Closing My Eyes",
+      "artist": "potsu Ft. Shiloh",
+      "has_synced": true,
+      "path": "select/14_I'm_Closing_My_Eyes_potsu_Ft._Shiloh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Closing My Eyes (feat. Shiloh)",
+      "artist": "potsu",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Closing_My_Eyes_(feat._Shiloh)_potsu.txt"
+    }
+  ]
+}
